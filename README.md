@@ -15,25 +15,30 @@ art — and writes it as a PNG to `/output/entry.png` (or to
 program is deterministic: run it twice and the bytes are identical.
 The rendered image is kept in this repository as `entry.png`.
 
-The front page carries the day's seven biggest stories, all reported
-on 22 November 2026:
+The front page carries the day's seven biggest stories, all first
+reported on 22 November 2026:
 
-- **COP31 goes to the wire in Antalya** — summit president Murat
-  Kurum tables a final text and urges a deal by 6am; the last fight is
-  whether the pact names fossil fuels (Arab News, UN News).
+- **COP31 collapses in Antalya** — after two days of overtime, the
+  EU rejects a final text that names no fossil fuels; the longest
+  climate summit ever ends with no deal, and Guterres is "deeply
+  disappointed" (Al Jazeera, Rappler, Vanguard, The Hindu).
 - **Bahrain says Iran struck a plant; tankers hit in Hormuz** —
   Manama blames Tehran for a fire at a civilian industrial site; two
   tankers struck in the strait, per UKMTO (AFP).
+- **Russian drone flattens flats near Kyiv** — five killed in Dymer
+  as a five-storey block collapses; rescuers hunt for the missing
+  (AP, Kyiv Independent).
 - **States open a path to a "killer robot" pact** — 128 countries in
   Geneva agree to draft rules on autonomous weapons over two years
   (AFP).
-- **Pentagon moves to curb defence ties with Canada** (AFP).
+- **South Korea's education minister quits** — Choi Kyo-jin resigns
+  over the AI-cheating chaos around the college entrance exam
+  (Yonhap).
 - **Rohingya hail the genocide verdict on Myanmar** — refugees
   welcome the UN court's ruling (AP).
-- **Iran to ration power from Sunday** — rolling cuts as war damage
-  deepens the energy crunch (AFP).
-- **Belgium braces for an air traffic shutdown** — a national strike
-  on Monday threatens to halt flights (AFP).
+- **Verstappen wins a wild Las Vegas GP** — 35 lead changes in 50
+  laps; the Red Bull star beats Norris by 0.639 seconds
+  (Formula 1, Al Jazeera).
 
 ## Run it
 
